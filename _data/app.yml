@@ -1,6 +1,6 @@
-```yaml
+name: Present Sir
+description: Your Reliable Bus Tracking Partner
 full_description: '
-full_description: "
 🔥 **Welcome to PresentSir – Your Reliable Bus Tracking Partner**  
 Say goodbye to long waits and uncertainty! **PresentSir** is a community-driven bus tracking app designed to make your daily commute smoother, faster, and stress-free. Whether you’re a student, professional, or daily commuter, **PresentSir** empowers you with **real-time bus location updates** contributed by users like you.  
 
@@ -27,7 +27,8 @@ Whether you’re a **🎓 Student**, **💼 Office Worker**, **🚶 Daily Commut
 
 🚀 **Join the PresentSir Community Today**  
 Transform your commute into a seamless experience! Download **PresentSir** now and help us make public transportation better for everyone.  
-android: https://github.com/lizardCloud/releases/releases/download/android/presentsir-v1.0.0.apk
+'
+android: https://github.com/lizardCloud/releses/releases/download/android/presentsir-v1.0.0.apk
 screenshots:
   - 1.png
   - 2.png
