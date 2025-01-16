@@ -1,32 +1,5 @@
 ```yaml
-full_description: '
-🔥 **Welcome to PresentSir – Your Reliable Bus Tracking Partner**  
-Say goodbye to long waits and uncertainty! **PresentSir** is a community-driven bus tracking app designed to make your daily commute smoother, faster, and stress-free. Whether you’re a student, professional, or daily commuter, **PresentSir** empowers you with **real-time bus location updates** contributed by users like you.  
-
-
-🌟 **Why Choose PresentSir?**  
-We created PresentSir to address common public transportation challenges—late buses, unknown schedules, and wasted time. By leveraging the power of community, we deliver **reliable, up-to-date information** that ensures a predictable and efficient commute for everyone.  
-
-
-🚍 **Key Features**  
-
-- 🕒 **Real-Time Tracking:** View live bus locations shared by fellow commuters.  
-- 🔔 **Notification Alerts:** Receive updates on bus arrivals, delays, or schedule changes.  
-- ⏰ **Custom Reminders:** Set personalized reminders for when your bus is approaching.  
-- 🤝 **Community-Powered Updates:** Contribute and access live bus location data from other users.  
-- 🗺️ **Smart Routes:** Discover the fastest and most efficient bus routes for your journey.  
-
-👥 **Who Can Use PresentSir?**  
-Whether you’re a **🎓 Student**, **💼 Office Worker**, **🚶 Daily Commuter**, or **🌍 Traveler**, **PresentSir** is built for everyone who depends on public transport.  
-
-⭐ **Why PresentSir Stands Out**  
-- ✅ **Community-Verified Data:** Reliable updates powered by real users.  
-- ⏱️ **Time-Saving:** Avoid unnecessary waiting and plan your commute better.  
-- 💸 **Completely Free:** Enjoy all features without any cost.  
-
-🚀 **Join the PresentSir Community Today**  
-Transform your commute into a seamless experience! Download **PresentSir** now and help us make public transportation better for everyone.  
-'
+full_description: 'LOcccccc'
 android: https://github.com/lizardCloud/releses/releases/download/android/presentsir-v1.0.0.apk
 screenshots:
   - 1.png
