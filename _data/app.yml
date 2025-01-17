@@ -1,11 +1,11 @@
 name: Present Sir
 description: Bus location tracking app.
 full_description: '
-- 🕒 Real-Time Tracking: Access live bus locations shared by fellow commuters.
-- 🔔 Notification Alerts: Get updates on bus arrivals, delays, or schedule changes.
-- ⏰ Custom Reminders: Set reminders for when your bus is nearby.
-- 🤝 Community-Powered Updates: Share and receive live bus locations.
-- 🗺️ Smart Routes: Find the fastest, most efficient bus routes.
+- Real-Time Tracking: Access live bus locations shared by fellow commuters.
+- Notification Alerts: Get updates on bus arrivals, delays, or schedule changes.
+- Custom Reminders: Set reminders for when your bus is nearby.
+- Community-Powered Updates: Share and receive live bus locations.
+- Smart Routes: Find the fastest, most efficient bus routes.
 '
 android: https://github.com/lizardCloud/releses/releases/download/android/presentsir-v1.0.0.apk
 screenshots:
