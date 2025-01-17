@@ -1,11 +1,33 @@
 name: Present Sir
 description: Bus location tracking app.
 full_description: '
-- Real-Time Tracking: Access live bus locations shared by fellow commuters.
-- Notification Alerts: Get updates on bus arrivals, delays, or schedule changes.
-- Custom Reminders: Set reminders for when your bus is nearby.
-- Community-Powered Updates: Share and receive live bus locations.
-- Smart Routes: Find the fastest, most efficient bus routes.
+    <h1>🔥 Welcome to PresentSir – Your Reliable Bus Tracking Partner</h1>
+    <p>Say goodbye to long waits and uncertainty! PresentSir is a community-driven bus tracking app designed to make your daily commute smoother, faster, and stress-free. Whether you’re a student, professional, or daily commuter, PresentSir empowers you with real-time bus location updates contributed by users like you.</p>
+    
+    <h2>🌟 Why PresentSir?</h2>
+    <p>We built PresentSir to tackle the common frustrations of public transportation—late buses, unknown schedules, and wasted time. By harnessing the power of community, we provide reliable and up-to-date information to ensure a more predictable commute for everyone.</p>
+    
+    <h2>🚍 Key Features</h2>
+    <ul>
+        <li>🕒 <strong>Real-Time Tracking:</strong> Access live bus locations shared by fellow commuters.</li>
+        <li>🔔 <strong>Notification Alerts:</strong> Get updates on bus arrivals, delays, or schedule changes.</li>
+        <li>⏰ <strong>Custom Reminders:</strong> Set reminders for when your bus is nearby.</li>
+        <li>🤝 <strong>Community-Powered Updates:</strong> Share and receive live bus locations.</li>
+        <li>🗺️ <strong>Smart Routes:</strong> Find the fastest, most efficient bus routes.</li>
+    </ul>
+    
+    <h2>👥 Who Can Use PresentSir?</h2>
+    <p>🎓 Students, 💼 Office Workers, 🚶 Daily Commuters, and 🌍 Travelers—anyone relying on public transport can benefit.</p>
+    
+    <h2>⭐ Why Choose Us?</h2>
+    <ul>
+        <li>✅ Reliable, community-verified data.</li>
+        <li>⏱️ Saves time and reduces stress.</li>
+        <li>💸 Completely free!</li>
+    </ul>
+    
+    <h2>🚀 Join the PresentSir Community Today</h2>
+    <p>Download PresentSir now and transform your commute into a seamless experience! Together, we can make travel easier for everyone.</p>
 '
 android: https://github.com/lizardCloud/releses/releases/download/android/presentsir-v1.0.0.apk
 screenshots:
